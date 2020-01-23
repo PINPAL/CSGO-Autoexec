@@ -9,7 +9,25 @@ Includes autoexec file which includes all my configuration such as:
   • Nade Keybinds      
   • Buy Menu Binds    
   • Shortened Commands
-  
+
+# Keyboard Layout
+
+**QWERTY - Full Size**<br/>
+https://github.com/PINPAL/CSGO-Autoexec/tree/qwerty<br/>
+For a full size QWERTY keyboard please refer to the `qwerty` branch.
+
+**QWERTY - No Numpad**<br/>
+https://github.com/PINPAL/CSGO-Autoexec/tree/qwerty-numless<br/>
+For a TKL or 60% keyboard etc please refer to the `qwerty-numless` branch.
+
+**DVORAK - Full Size**<br/>
+https://github.com/PINPAL/CSGO-Autoexec/tree/dvorak<br/>
+For a full size DVORAK keyboard please refer to the `dvorak` branch.
+
+**DVORAK - No Numpad**<br/>
+https://github.com/PINPAL/CSGO-Autoexec/tree/dvorak-numless<br/>
+For a TKL or 60% keyboard etc please refer to the `dvorak-numless` branch.
+
 # Installation
 1. Navigate to: ```~SteamInstallFolder\Counter-Strike Global Offensive\csgo\cfg```
    (Where `~SteamInstallFolder` refers to your steam games installation directory.
@@ -40,10 +58,4 @@ Enter these shorter commands into the console to speed up your workflow.
 | lan          | Join LAN Server     |
 
 # Buy Binds
-**Numpad**<br/>
-More buttons equals more binds.<br/>
-![NumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/Binds.png)
-
-**Without Numpad**<br/>
-Only got a TKL keyboard?<br/>
 ![NonNumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/Binds-Numless.png)
